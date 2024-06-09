@@ -1,20 +1,20 @@
 # SD2SP2
 
-This PCB allows a MicroSD card to adapted into the serial port2 of the gamecube.
+This PCB allows a microSD card to be adapted into the Serial Port 2 of the GameCube.
 
-The PCB must be ordered in 1.2mm thickness. Surface finish must be ENIG at minimum.  I recommened https://jlcpcb.com for PCB production
+The PCB must be ordered in 1.2mm thickness. Surface finish must be ENIG at minimum. I recommend https://jlcpcb.com for PCB production.
 
 ![The serial port SD adapter installed into the bottom of a GameCube](https://github.com/citrus3000psi/SD2SP2/blob/master/Assets/insert2.jpg?raw=true "SD2SP2")
 
 
 
-BOM:  
+BOM:
 
-C1: 0805 22u Capactior (10V Min) - DigiKey Part# 	1276-6780-1-ND  
+C1: 0805 22u Capactior (10V Min) - DigiKey Part# 1276-6780-1-ND
 
-J1: MicroSD Slot - DigiKey Part# WM6825CT-ND  
+J1: MicroSD Slot - DigiKey Part# WM14405CT-ND
 
-Unassembled kits will be available for purchase at my webstore soon: https://shop.dansprojects.com
+U1: OR Gate IC - DigiKey Part# 296-8749-1-ND
 
 Special thanks to:  
  * MockyLock for the idea  

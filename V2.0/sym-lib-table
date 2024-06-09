@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gc_sp2")(type "Legacy")(uri "${KIPRJMOD}/gc_sp2.lib")(options "")(descr ""))
+  (lib (name "gc_sp2-rescue")(type "KiCad")(uri "${KIPRJMOD}/gc_sp2-rescue.kicad_sym")(options "")(descr ""))
+)
